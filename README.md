@@ -1,1 +1,1 @@
-# visual-composer-new-param-type---Image-upload
+# visual-composer-param-extension
